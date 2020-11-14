@@ -1,4 +1,5 @@
 .DS_STORE
 tryme/.terraform/plugins/darwin_amd64/terraform-provider-aws_v3.15.0_x5
 ec2-multiregion/.terraform
+sts-test/.terraform
 tryme/terraform.pem
